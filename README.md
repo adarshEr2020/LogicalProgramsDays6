@@ -1,0 +1,1 @@
+# LogicalProgramsDays6
